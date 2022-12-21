@@ -1,6 +1,6 @@
-# chat_app
+# wordPair_Generator
 
-A new Flutter project.
+A new Flutter project. Generates WordPairs and have a collection of saved pairs.
 
 ## Getting Started
 
